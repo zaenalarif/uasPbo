@@ -1,4 +1,6 @@
-package Nomor3;
+package Nomor2;
+
+import Nomor2.Film;
 
 public class FilmTayang {
 

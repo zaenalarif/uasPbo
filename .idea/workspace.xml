@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8183da6a-bc00-49f9-beb3-e55d326a41f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Nomor3/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nomor3/FilmTayang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nomor5/Dokter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nomor5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nomor5/Pasien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UasPbo/Nomor1/Dokter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UasPbo/Nomor1/Dokter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UasPbo/Nomor3/MemoriBeraksi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UasPbo/Nomor3/MemoriBeraksi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nomor3/MemoriBeraksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nomor3/MemoriBeraksi.java" afterDir="false" />
-    </list>
+    <list default="true" id="8183da6a-bc00-49f9-beb3-e55d326a41f5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

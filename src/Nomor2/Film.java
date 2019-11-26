@@ -1,4 +1,4 @@
-package Nomor3;
+package Nomor2;
 
 public class Film {
     private String nama;
